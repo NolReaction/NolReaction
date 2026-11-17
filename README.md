@@ -1,4 +1,4 @@
-# Сломов Дмитрий
+# Дмитрий Сломов
 
 Я Android-разработчик, пишу на Kotlin. Создаю собственные приложения и игры, работаю с Kotlin Multiplatform. В своих проектах занимаюсь интерфейсом, архитектурой, серверной частью и развёртыванием.
 
@@ -17,9 +17,17 @@
 **Стек:** C#, Unity, URP, Blender.
 
 **[Я живой / Мохлик](https://github.com/NolReaction/zhiv-app) · [Веб-версия](https://im-alive.ru/)**  
-Разрабатываю приложение, которое объединяет связь с близкими и собственный лесной мир с хозяйством, рыбалкой и путешествиями. Работаю над всем продуктом: веб-интерфейсом, мобильным приложением, игровой логикой и сервером на Kotlin.
+Разрабатываю приложение, которое объединяет связь с близкими и собственный лесной мир с хозяйством, рыбалкой и путешествиями. Отвечаю за веб-интерфейс, мобильное приложение, сервер и инфраструктуру. Реализовал игровую экономику, синхронизацию прогресса, геолокацию, собственный рендеринг игрового мира и поведение персонажей.
 
-**Стек:** Kotlin, Ktor, PostgreSQL, TypeScript, React, Next.js, Capacitor, Swift, Docker.
+**Веб:** TypeScript, React, Next.js, Tailwind CSS, Zod, PWA.
+
+**Мобильная часть:** Capacitor, Swift, Kotlin, SQLite, Keychain, Android Keystore.
+
+**Backend:** Kotlin, Ktor, Coroutines, PostgreSQL, JDBC, HikariCP, Flyway, REST API.
+
+**Графика и звук:** Canvas 2D, WebGL 2, GLSL, MapLibre GL, Tiled, Web Audio API.
+
+**Инфраструктура и проверки:** Docker Compose, Caddy, Linux, GitHub Actions, Prometheus, JUnit 5, Testcontainers.
 
 **[Авто-Горизонт](https://auto-gorizont.ru/)**  
 Для компании по поставкам строительных материалов разработал сайт с приёмом заявок и рабочим местом диспетчера. Связал публичную часть сайта с обработкой обращений внутри компании. Исходники закрыты.
@@ -58,3 +66,7 @@
 **Стек:** Swift, SwiftUI, SwiftData, URLSession, async/await, MVVM, XCTest.
 
 Сохранил и ранние работы: [HandBook](https://github.com/NolReaction/HandBook_Client) с [отдельным backend](https://github.com/NolReaction/HandBook_Backend), [локальный кинотеатр](https://github.com/NolReaction/my-local-cinema), [игру на C++](https://github.com/NolReaction/mini-gui-game) и [эксперименты с Qt с 2023 года](https://github.com/NolReaction/qt-learning). На них учился программировать и постепенно пришёл к мобильной разработке.
+
+## Контакты
+
+Telegram: [@D_Slomov](https://t.me/D_Slomov)
